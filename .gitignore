@@ -1,5 +1,6 @@
 # MKDOCS Material Source Folder
 mkdocs-material/
+site/
 
 # Compiled class file
 *.class
