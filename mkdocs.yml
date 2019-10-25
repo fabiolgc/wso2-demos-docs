@@ -1,0 +1,31 @@
+site_name: WSO2 Demos Portal
+site_description: Demonstration Portal for all WSO2 Products
+site_author: WSO2
+site_url: https://wso2.com/
+
+# Repository
+repo_name: wso2/demo-docs
+repo_url: https://github.com/wso2/demo-docs
+
+# Copyright
+copyright: WSO2 Demos Portal
+
+theme:
+  name: material
+  language: en
+  palette:
+    primary: grey
+    accent: orange
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: 'https://ei.docs.wso2.com/en/latest/micro-integrator/images/logo.svg'
+  feature:
+    tabs: true
+  custom_dir: 'custom'
+
+extra_css:
+  - 'stylesheets/extra.css'
+
+extra_javascript:
+  - 'javascripts/extra.js'
